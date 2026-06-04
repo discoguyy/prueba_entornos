@@ -1,0 +1,4 @@
+¿Que es Github?
+github es el servidor o plataforma en donde se guardan archivos que
+enviamos de nuestra computadora localmente a github mediante git, 
+github funciona como una nube en donde se guardan arcivhos en repositorios. 
